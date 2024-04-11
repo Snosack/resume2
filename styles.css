@@ -1,0 +1,25 @@
+body {
+    margin: 2;
+    padding: 2;
+    background-color: lightblue;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.top-section {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+}
+
+.top-section img {
+    display: block;
+    margin: 0 auto;
+}
+
+.top-section h1,
+.top-section p {
+    margin: 10px 0;
+}
